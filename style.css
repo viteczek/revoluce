@@ -1,0 +1,22 @@
+h1 {
+    color:red;
+    font-family: monospace;
+    font-size: 100px;
+    text-align: center;
+    margin: 0 auto;
+}
+button {
+    color:red;
+    font-family: monospace;
+    height: 300px;
+    width: 1000px;
+    display:block;
+    margin: 0 auto;
+    font-size: 100px;
+}
+img {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    cursor: pointer;
+}
